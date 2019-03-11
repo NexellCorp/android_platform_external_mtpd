@@ -30,5 +30,5 @@ cc_binary {
         "-Wall",
         "-Werror",
     ],
-    init_rc: ["mtpd.rc"],
+    // init_rc: ["mtpd.rc"],
 }
